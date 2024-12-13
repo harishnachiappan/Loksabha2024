@@ -30,24 +30,3 @@
 10. **Highest Number of Candidates**
     - The Karur constituency in Tamil Nadu had the highest number of candidates contesting in the 2024 elections, with a total of 55 candidates.
 
-## PowerBI Dashboard
-
-![PowerBI Dashboard](PowerBi/PowerBi-Dashboard.png)
-
-<div align="center">
-
-[![Download the PowerBI file](https://img.shields.io/badge/Download-PowerBI%20File-blue?style=for-the-badge&logo=power-bi)](PowerBi/election-visualization.pbix)
-
-[![Python Visualization](https://img.shields.io/badge/Python%20Visualization-Notebook-yellow?style=for-the-badge&logo=jupyter)](python-vizualization.ipynb)
-
-</div>
-
-##
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subha%20Bal%20Pal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subha-bal-pal-3b4643226/)
-[![GitHub](https://img.shields.io/badge/GitHub-mohit2pal-black?style=for-the-badge&logo=github)](https://github.com/mohit2pal/)
-[![Phone](https://img.shields.io/badge/Phone-8981718313-green?style=for-the-badge&logo=phone)](tel:8981718313)
-
-</div>
