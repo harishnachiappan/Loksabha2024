@@ -1,0 +1,17 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# User directories
+AppData/
+Documents/
+.VirtualBox/
+.arduinoIDE/
+
+# Other system files
+*.lnk
+*.tmp
+
+# Logs
+*.log
